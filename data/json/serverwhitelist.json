@@ -1,6 +1,12 @@
 {
   "servers": [
-    "play.pika-network.net",
-    "ultimis.net"
+    {
+      "name": "Pika Network",
+      "address": "play.pika-network.net"
+    },
+    {
+      "name": "Ultimis",
+      "address": "ultimis.net"
+    }
   ]
 }
